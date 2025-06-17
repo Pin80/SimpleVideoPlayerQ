@@ -4,4 +4,4 @@
 ![Basic View](https://github.com/Pin80/SimpleVideoPlayerQ/blob/main/screen1.png)
 ![Basic View](https://github.com/Pin80/SimpleVideoPlayerQ/blob/main/screen2.png)
 
-<iframe width="720" height="405" src="//rutube.ru/play/embed/7163336" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+[<iframe width="720" height="405" src="//[rutube.ru/play/embed/7163336](https://rutube.ru/video/95dabd5302648a7de19459ace3d1a130/?r=wd)" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>](https://rutube.ru/video/95dabd5302648a7de19459ace3d1a130/?r=wd)
